@@ -6,5 +6,4 @@ Testing a new branch addition
 
 # Updates
 
-- Replacement for Rebase change on GitHub
-- This is an edit made on notepad++
+- No more conflicts
