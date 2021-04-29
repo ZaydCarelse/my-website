@@ -7,3 +7,7 @@ Testing a new branch addition
 # Updates
 
 - No more conflicts
+
+# Purpose of README
+
+- To provide end-user with documentation
