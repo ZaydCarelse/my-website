@@ -6,6 +6,4 @@ Testing a new branch addition
 
 # Updates
 
-- This is an update to the readme file done from GitHub
-
-- Adding more to the text file via Notepad++
+- Replacement for Rebase change on GitHub
