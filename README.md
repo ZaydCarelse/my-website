@@ -7,3 +7,4 @@ Testing a new branch addition
 # Updates
 
 - Replacement for Rebase change on GitHub
+- New Text added to create a conflict
